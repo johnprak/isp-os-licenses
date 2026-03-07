@@ -3,5 +3,14 @@
     "version": "1.0",
     "updated_at": "2026-03-08"
   },
-  "licenses": {}
+  "licenses": {
+    "TEST-XXXX-XXXX-XXXX": {
+      "hardware_id": null,
+      "customer": "Test License - Any Hardware",
+      "tier": "enterprise",
+      "status": "active",
+      "activated_at": null,
+      "notes": "Test license for development"
+    }
+  }
 }
