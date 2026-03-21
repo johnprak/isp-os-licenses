@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "last_updated": "2026-03-21T18:15:58.603Z",
+  "version": 3,
+  "last_updated": "2026-03-21T20:00:33.645Z",
   "licenses": {
     "TEST-XXXX-XXXX-XXXX": {
       "hardware_id": null,
@@ -18,7 +18,7 @@
       "tier": "enterprise",
       "status": "active",
       "activated_at": "2026-03-21T18:15:58.603Z",
-      "last_seen": "2026-03-21T18:15:58.603Z",
+      "last_seen": "2026-03-21T20:00:33.645Z",
       "activation_method": "offline_phonehome",
       "notes": "Registered via phone-home after offline activation"
     }
