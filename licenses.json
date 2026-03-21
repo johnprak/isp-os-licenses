@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "last_updated": "2026-03-22T00:00:00.000Z",
+  "version": 2,
+  "last_updated": "2026-03-21T18:15:58.603Z",
   "licenses": {
     "TEST-XXXX-XXXX-XXXX": {
       "hardware_id": null,
@@ -11,6 +11,16 @@
       "last_seen": null,
       "activation_method": null,
       "notes": "Test license for development - accepts any hardware ID"
+    },
+    "OFFLINE-1774077731813": {
+      "hardware_id": "37c9056c609afc11b941fd637fddca0e526b1e26c7ddeabda65d4514863c7754",
+      "customer": "tata",
+      "tier": "enterprise",
+      "status": "active",
+      "activated_at": "2026-03-21T18:15:58.603Z",
+      "last_seen": "2026-03-21T18:15:58.603Z",
+      "activation_method": "offline_phonehome",
+      "notes": "Registered via phone-home after offline activation"
     }
   }
 }
