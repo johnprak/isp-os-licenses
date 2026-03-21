@@ -1,8 +1,6 @@
 {
-  "_meta": {
-    "version": "1.0",
-    "updated_at": "2026-03-08"
-  },
+  "version": 1,
+  "last_updated": "2026-03-22T00:00:00.000Z",
   "licenses": {
     "TEST-XXXX-XXXX-XXXX": {
       "hardware_id": null,
@@ -10,7 +8,9 @@
       "tier": "enterprise",
       "status": "active",
       "activated_at": null,
-      "notes": "Test license for development"
+      "last_seen": null,
+      "activation_method": null,
+      "notes": "Test license for development - accepts any hardware ID"
     }
   }
 }
